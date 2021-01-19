@@ -9,6 +9,6 @@ Extreme Learning Machine algorithms are high-speed and can give a pretty good ac
 Other neural network architectures, such as DNN (Fully connected) and CNN converge very slowly compared to ELM. However, these neural networks have many hyperparameters that can be tuned to increase accuracy performance. They perform better on GPU.
 Some hybrid algorithms of ELM and multi-layer neural networks have been proposed where the number of layers in ELM is increased. These algorithms might give a better accuracy performance within a similar timeframe and are worth exploring.
 
-# Refernces:
+# References:
 1. Guang-Bin Huang, Qin-Yu Zhu, and Chee Siew. Extreme learning machine: Theory and applications. Neurocomputing, 70:489–501, 12 2006.
 2. Guang-Bin Huang, Hongming Zhou, Xiaojian Ding, and Rui Zhang. Extreme learn- ing machine for regression and multiclass classification. ieee trans. syst. man cybern. 42(2), 513-529. IEEE transactions on systems, man, and cybernetics. Part B, Cyber- netics : a publication of the IEEE Systems, Man, and Cybernetics Society, 42:513–29, 10 2011.
